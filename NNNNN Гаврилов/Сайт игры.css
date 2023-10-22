@@ -1,0 +1,70 @@
+body {
+    background: #DCDCDC;
+    color: #000000;
+    font-family: Caveat;
+    font-size: 12px;
+}
+
+.container {
+    background: #FFFFFF;
+    margin: 30px auto;
+    width: 900px;
+    height: 1000px;
+}
+ 
+.header {
+    height: 300px;
+    width: 900px;
+}
+ 
+.navigation {
+    background: #D3D3C3;
+    width: 900px;
+    height: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.menu {
+    font-size: 25px;
+    background: #ed8935;
+    float: left;
+    width: 270px;
+    height: 600px;
+    font-style: italic;
+
+}
+
+.content {
+    background: #D3B3A3;
+    float: right;
+    width: 630px;
+    height: 600px;
+}
+ 
+.clear {
+    clear:both;
+}
+ 
+
+.footer {
+    background: #D3BAD3;
+    height: 60px;
+    width: 900px;
+    text-align: center;
+    font-size: 20px;
+}
+
+a{     
+    color: black;
+    text-decoration: none;
+}
+
+img {
+    width:100%;
+}
+
+div.header {
+    background-image: url('Kuchaw.jpg');
+    background-size: cover;
+}
